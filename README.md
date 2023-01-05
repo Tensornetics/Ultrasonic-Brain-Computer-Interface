@@ -3,11 +3,12 @@ Ultrasonic Brain-Computer Interface
 
 This project provides a Python script for measuring and analyzing brain activity using an array of ultrasonic sensors. The script includes the following features:
 
-Initialization of an array of ultrasonic sensors with user-specified sensitivity and frequency range
-Measurement of brain activity using the sensor array for a specified duration
-Processing and classification of brain activity data using a machine learning model implemented in TensorFlow
-Storage of brain activity data and classification in a cloud database
-Dependencies
+Initialization of an array of ultrasonic sensors with user-specified sensitivity and frequency range. 
+Measurement of brain activity using the sensor array for a specified duration. 
+Processing and classification of brain activity data using a machine learning model implemented in TensorFlow. 
+Storage of brain activity data and classification in a cloud database. 
+
+#Dependencies
 
 This script requires the following libraries:
 
